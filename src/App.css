@@ -1,0 +1,11 @@
+:root{
+    --back: #020A13
+}
+
+.App {
+  background-color:var(--back) ;
+  color: white;
+}
+a{
+    cursor: pointer;
+}
